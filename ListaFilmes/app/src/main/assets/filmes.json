@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "nome": "Bronx",
+    "lancamento": 2020,
+    "sinopse": "Marselha. Tudo começa com a carnificina causada pelos homens do clã Orsoni. Richard Vronski, um policial da brigada anti-gangue com métodos pouco ortodoxos, se vê encarregado da investigação, enfrentando seus rivais, comandados por Costa, major da polícia. Um novo diretor, o comissário Angel Leonetti chega para dominar os cães loucos de sua equipe. Mas todos perceberão rapidamente que não se recebe nada sem sacrifícios ou riscos."
+  },
+  {
+    "id": 1,
+    "nome": "Bob Esponja: O Incrível Resgate",
+    "lancamento": 2020,
+    "sinopse": "Onde está Gary? Segundo Bob Esponja, Gary foi \"caracolstrado\" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras."
+  },
+  {
+    "id": 2,
+    "nome": "Attraction 2: A Invasão ",
+    "lancamento": 2020,
+    "sinopse": "Um objeto voador não identificado que vem do espaço muda a visão da humanidade sobre a vida em outros planetas. Quando os alienígenas desembarcam na terra, a destruição é documentada pelos moradores de um bairro residencial de Moscou, que precisam sobreviver enquanto começam a questionar as motivações dos alienígenas."
+  },
+  {
+    "id": 3,
+    "nome": "Coringa",
+    "lancamento": 2019,
+    "sinopse": "Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante."
+  }
+]

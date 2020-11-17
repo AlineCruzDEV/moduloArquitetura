@@ -42,13 +42,13 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 //        }
 //    }
 
-    fun getListGastoGson(): List<Gasto>{
+    fun getListGastoGson(): List<Gasto> {
 
         val jsonString = context.assets.open("gastos.json")
-                .bufferedReader()
-                .use { it.readText() }
+            .bufferedReader()
+            .use { it.readText() }
 
-        return Gson().fromJson(jsonString, object: TypeToken<List<Gasto>>(){}.type)
+        return Gson().fromJson(jsonString, object : TypeToken<List<Gasto>>() {}.type)
 
 
     }
